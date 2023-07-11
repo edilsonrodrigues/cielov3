@@ -4,7 +4,7 @@
       "Cielo": "src"
     }
   },
-  "name": "impactaweb/lib-cielo",
+  "name": "impactasolucoes/lib-cielo",
   "description": "Integração com a API 3.0 da Cielo",
   "license": "MIT",
   "type": "library",
