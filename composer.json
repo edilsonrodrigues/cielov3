@@ -4,7 +4,7 @@
       "Cielo": "src"
     }
   },
-  "name": "impactasolucoes/lib-cielo",
+  "name": "edilsonrodrigues/cielov3edilsonrodrigues/cielov3",
   "description": "Integração com a API 3.0 da Cielo",
   "license": "MIT",
   "type": "library",
@@ -17,5 +17,5 @@
   "suggest": {
     "monolog/monolog": "Allows more advanced logging of the application flow"
   },
-  "homepage": "https://github.com/DeveloperCielo/API-3.0-PHP"
+  "homepage": "https://github.com/edilsonrodrigues/cielov3"
 }
