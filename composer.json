@@ -4,7 +4,7 @@
       "Cielo": "src"
     }
   },
-  "name": "edilsonrodrigues/cielov3edilsonrodrigues/cielov3",
+  "name": "edilsonrodrigues/cielov3",
   "description": "Integração com a API 3.0 da Cielo",
   "license": "MIT",
   "type": "library",
